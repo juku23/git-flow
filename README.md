@@ -1,0 +1,4 @@
+the git flow is very important for collaboration. the team can easly track the code and revert to the previous version if the is issue with the new version. when you have the main, it is where the official code is. you have to create a develop branch which is a copy of the main. The developer will now pull the code from the develop branch to the future branch. And the develop branch will create a release branch for the future branch to push their finished work for two people in the team to review. If the review is done by the release branch, the code get merge to both the main and the develop branch with a verion tag. The release branch get deleted.   
+
+before setting any branching strategy for a company, you first of all need to know what moduel of vcs they have.
+if ther is none, then you can set up a branching stretagy using git flow which all you to have different branches. you can even create multiple branches of the future branch.  
